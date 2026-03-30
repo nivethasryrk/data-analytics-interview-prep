@@ -1,6 +1,15 @@
-# Data Analytics / Data Engineering Interview Prep
+# Data Analytics / Data Engineering Portfolio
 
-Author: Nivethasry Malliga Nagarajan
+👤 Author: Nivethasry Malliga Nagarajan  
+💼 Role: Senior Data Engineer / Data Analyst  
+📍 Location: Sunnyvale, CA  
+📧 Email: nivethasryn11@gmail.com
+
+## Professional Summary
+
+Senior Data Engineer with 8+ years of experience in building scalable data pipelines, analytics solutions, and machine learning models across Azure and AWS platforms. Strong expertise in SQL, Python, Databricks, ETL pipelines, and data visualization using Tableau.
+
+Focused on delivering high-quality, reliable, and business-driven data solutions.
 
 ## Overview
 
@@ -10,7 +19,10 @@ It demonstrates my experience in building scalable data pipelines, performing da
 
 ---
 
-## Skills Covered
+## 🚀 Skills Covered
+## 📊 Data Visualization & BI
+## 🤖 Machine Learning
+## 🏗️ Data Engineering Concepts
 
 ### SQL
 - Joins (Inner, Left, Right)
@@ -74,14 +86,30 @@ It demonstrates my experience in building scalable data pipelines, performing da
 - Machine Learning Libraries (Scikit-learn, NLTK)
 - Data Warehousing (Redshift, Synapse)
 
+## ⭐ Highlights
+
+- Built scalable ETL pipelines using ADF, Databricks, and Spark
+- Developed SQL-based analytics solutions for large datasets
+- Implemented data quality validation and reconciliation frameworks
+- Created Tableau dashboards for business insights
+- Built machine learning models and integrated into pipelines
 ---
 
-## Repository Structure
+
+## 📁 Repository Structure
 
 - `sql_practice.sql` → SQL interview problems and solutions  
-- `python_data_tasks.py` → Python data processing and validation examples  
-- `sample_pipeline.md` → End-to-end data pipeline design  
+- `python_data_tasks.py` → Data cleaning and validation using Python  
+- `sample_pipeline.md` → End-to-end ETL pipeline design  
+- `ml_model_example.py` → Machine learning + NLP + F1 score examples  
+- `tableau_dashboard.md` → Dashboard and visualization use case  
 
+## ▶️ How to Use
+
+- Review SQL queries for common analytics scenarios  
+- Explore Python scripts for data processing  
+- Understand pipeline design for real-world applications  
+- Refer ML examples for classification and NLP use cases  
 ---
 
 ## Notes
